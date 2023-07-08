@@ -1,0 +1,65 @@
+body {
+  font-family: Nunito;
+}
+
+.navbar {
+  background: rgb(17, 40, 117) !important;
+}
+.navbar-brand {
+  font-size: 29px;
+}
+
+.nav-item {
+  font-size: 20px;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: rgb(163, 162, 162);
+}
+
+.jumbotron {
+  background-color: rgb(17, 40, 117) !important;
+  color: white;
+  box-shadow: 0px 0px 2px 1px black;
+}
+
+.form-contenedor {
+  border: 1px solid rgb(160, 160, 160);
+  box-shadow: 0px 0px 10px 0px rgb(141, 141, 141);
+  height: 480px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+
+label {
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+.button-container {
+  text-align: center;
+}
+#buttonRegistrar {
+  background-color: rgb(17, 40, 117) !important;
+  border-color: black !important;
+  color: white;
+}
+#buttonBorrar {
+  background-color: rgb(17, 40, 117) !important;
+  color: white !important;
+}
+#buttonRegistrar:hover {
+  background-color: rgb(23, 55, 160) !important;
+  border-color: black !important;
+}
+
+#buttonSave {
+  color: rgb(201, 201, 201) !important;
+  background-color: transparent !important;
+  font-size: 20px !important;
+}
+
+#buttonSave:hover {
+  color: rgb(134, 134, 134) !important;
+}
